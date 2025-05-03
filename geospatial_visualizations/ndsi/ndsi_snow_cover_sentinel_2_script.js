@@ -62,4 +62,3 @@ var aoi = ee.Geometry.Polygon([
       print("Snow-covered area (sq. km):", snowAreaKm2);
     }
   });
-  
