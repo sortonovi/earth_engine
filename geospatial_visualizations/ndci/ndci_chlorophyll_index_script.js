@@ -1,8 +1,3 @@
-// linkedin: linkedin.com/in/sarah-ortonovi
-// youtube: @sarah-ortonovi-geomatics
-// hit that subscribe button to stay updated!
-
-
 // Step 1: Define the Study Area
 var WaterBodyArea = ee.Geometry.Polygon([
   [-1.723751867481671, 47.12862193499792],
