@@ -11,6 +11,7 @@ The goal of this repository is to:
 
 ## Project Structure
 
+```
 geospatial_vizualisations/
 ├── rvi/
 ├── ndci/
@@ -24,6 +25,7 @@ outputs/
 └── vectors/
 tests/
 └── Scripts for validation or unit testing
+```
 
 ## Technologies Used
 
