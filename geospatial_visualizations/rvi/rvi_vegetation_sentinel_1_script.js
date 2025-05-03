@@ -120,4 +120,4 @@ var studyAreaCoords = [
     description: 'RVI_Time_Series_Export',
     fileFormat: 'CSV',
     folder: 'RVI_Analysis'
-  });  
+  });
